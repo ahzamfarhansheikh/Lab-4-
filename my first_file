@@ -1,3 +1,6 @@
 
-// Add two number
+// Add two numbers
 int sum = a+b;
+
+// Subtract two numbers
+int difference = a-b;
