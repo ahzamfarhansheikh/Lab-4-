@@ -4,3 +4,6 @@ int sum = a+b;
 
 // Subtract two numbers
 int difference = a-b;
+
+// Multiply two numbers
+int product = a*b
